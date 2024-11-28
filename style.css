@@ -3,75 +3,75 @@
 }
 
 header {
-    background-color: #5015bd;
+    background-color: #9e6d4e;
 }
 
 header a {
-    color: white;
+    color: #fdc5c9;
 }
 
 .nav-item a {
-    color: #e0daf7;
+    color: #fa8cb1;
 }
 
 #boton-perfil {
-    background-color: #89a7b1;
+    background-color: #fa8cb1;
 }
 
 .nav-item a:hover {
-    color: aqua;
+    color: #fffee1;
 }
 
 #app {
-    color: #566981;
+    color: #fa8cb1;
 }
 
 .boton-cv {
-    background-color: #89a7b1;
+    background-color: #fa8cb1;
     color: white;
 }
 
 .Habilidades {
-    background-color: #5015bd;
-    color: white;
+    background-color: #fdc5c9;
+    color: #9e6d4e;
 }
 
 .btn-proyecto {
-    background-color: #89a7b1;
+    background-color: #9e6d4e;
 }
 
 .btn-proyecto a {
     text-decoration: none;
-    color: #5015bd;
+    color: #fffee1;
 }
 
 .card .card-title {
-    color: #34344e;
+    color: #9e6d4e;
 }
 
 #contacto {
-    background-color: #5015bd;
-    color: white;
+    background-color: #fdc5c9;
+    color: #9e6d4e;
 }
 
 #contacto p {
-    color: white;
+    color: #9e6d4e;
 }
 #btn-contacto{
-    color: #5015bd;
+    color: #9e6d4e;
 }
 #btn-contacto:hover{
-    background-color: aqua;
+    background-color: #fa8cb1;
 }
 
 footer li a i{
-    color: #5015bd;
+    color: #cfb699;
 }
 footer p{
-    color: #566981;
+    color: #9e6d4e;
 }
 footer a{
     text-decoration: none;
-    color: aqua;
+    color: #fa8cb1;
 
 }
